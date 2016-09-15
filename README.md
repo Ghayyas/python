@@ -7,7 +7,7 @@ To run on your terimal type:
  
  Also Please Note Proper Indentation is Very Important in python. Your may not run beacuse of Indentation.
  
- for example
+ for example: <br />
  `z = y + x` <br />
    `print z`
   it will gives you error to indent
