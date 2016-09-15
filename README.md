@@ -10,7 +10,7 @@ To run on your terimal type:
  for example: <br />
  ```
        z = y + x 
-       print z
+           print z
   ```
   it will gives you error to indent
  to fix this you need to properly indent that.
