@@ -8,8 +8,10 @@ To run on your terimal type:
  Also Please Note Proper Indentation is Very Important in python. Your may not run beacuse of Indentation.
  
  for example: <br />
- ```z = y + x 
-       print z```
+ ```
+       z = y + x 
+       print z
+  ```
   it will gives you error to indent
  to fix this you need to properly indent that.
  
