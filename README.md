@@ -1,5 +1,9 @@
 #Python programing Language
 
+
+ Before Starting Please not I used Python version 2.x so if you using Python version 3.x you may get errors.
+
+
 Simple Working with Python Language.
 
 To run on your terimal type:
